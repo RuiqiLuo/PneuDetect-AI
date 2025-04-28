@@ -1,5 +1,5 @@
 # Chest X-Ray Classification with Custom CNN
-![b290291e42c626d9d4af17cc414cec3](https://github.com/user-attachments/assets/a7cca9ee-fd0b-4d63-925b-501ccaad4927)
+<center><img src="https://github.com/user-attachments/assets/a7cca9ee-fd0b-4d63-925b-501ccaad4927" alt="Project Logo" width="250"></center>
 ## Project Overview
 
 This project implements a custom Convolutional Neural Network (CNN) using PyTorch to classify Chest X-Ray images as either Normal or Pneumonia. The codebase includes advanced features such as Grad-CAM for model interpretability, handling of class imbalance, and configurable output directories for organizing results.
