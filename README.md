@@ -83,7 +83,9 @@ The Grad-CAM heatmap demonstrates the model's focus areas in X-Ray images:
 -   The dataset should be organized with `train` and `test` subfolders, each containing class-specific subdirectories (`NORMAL` and `PNEUMONIA`).
 -   Error handling and logging are implemented to troubleshoot issues during execution.
 -   Grad-CAM visualizations are generated for a configurable number of images per epoch, stored in the output directory.
-##Train Demonstration
+  
+## Train Demonstration
 ![training_history](https://github.com/user-attachments/assets/8cb3276a-5054-492b-a93f-9b5af50284ff)
-##Heatmap Effect Demonstraion
+
+## Heatmap Effect Demonstraion
 ![Heatmap Effect Demonstration](https://github.com/user-attachments/assets/4f103722-188f-4025-9a30-4fea2c4962fb)
